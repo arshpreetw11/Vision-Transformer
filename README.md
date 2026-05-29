@@ -86,7 +86,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/arshpreetw11/Vision Transformer.git
 cd your-repository-name
 
 Install dependencies:
